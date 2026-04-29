@@ -4,7 +4,7 @@ This is my homepage! My name is Anthony Silva and I am a student at [Cal State F
 
 ## Computer Science projects
 
-My GitHub page is http://github.com/antsilva-24tech
+My GitHub page is [http://github.com/antsilva-24tech](https://github.com/antsilva-24tech/antsilva-24tech.github.io)
 
 ### CPSC 120
 
@@ -18,4 +18,4 @@ My GitHub page is http://github.com/antsilva-24tech
 
 * Lab 8
 
-    This lab was interesting with the loops and the repeating pattern in part-2. Getting to see the final product after completing the code was very satisfying for me. I feel like this kind of lab could have led to some kind of pixel art if done right.
+    Lab 8, part-2 was interesting with the loops and the repeating pattern. Getting to see the final product after completing the code was very satisfying for me. I feel like this kind of lab could have led to some kind of pixel art if done right.
